@@ -71,3 +71,7 @@ Method 2 assigns weights to the individual results from the fine-tuned BERT and 
 |   88.6   |   87.2    |  91.2  |   89.1   |
 
 </center>
+
+## 👩‍💻 Author
+Vineela Sunkara  
+📧 vineela.sunkara@rutgers.edu
